@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cruzeiro FlatEarth Experience 2025 - ExploraVenture</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2a9d8f;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+        .cruise-details, .price-section, .testimonials, .faq {
+            background-color: #fff;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .price {
+            font-size: 1.5rem;
+            color: #e76f51;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #264653;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+        .button {
+            background-color: #e76f51;
+            color: white;
+            padding: 1rem 2rem;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+            font-size: 1.2rem;
+            margin-top: 1rem;
+        }
+        .availability {
+            color: #2a9d8f;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Cruzeiro FlatEarth Experience 2025 - ExploraVenture</h1>
+    <p>Aventura única para desbravar os limites do horizonte!</p>
+</header>
+
+<div class="container">
+    <section class="cruise-details">
+        <h2>Descubra a Verdade além do Horizonte</h2>
+        <p>Embarque conosco em uma jornada única e intrigante! Nosso cruzeiro FlatEarth Experience oferece a oportunidade de explorar teorias, discutir descobertas e ver o mundo como você nunca imaginou.</p>
+        <p><strong>Data:</strong> Julho de 2025</p>
+        <p><strong>Local de Embarque:</strong> Miami, FL</p>
+        <p><strong>Duração:</strong> 10 dias de aventura e exploração</p>
+    </section>
+
+    <section class="price-section">
+        <h2>Investimento</h2>
+        <p class="price">USD $5,000.00</p>
+        <p class="availability">Apenas 5 vagas restantes!</p>
+        <a href="#" class="button">Reserve Agora</a>
+    </section>
+
+    <section class="testimonials">
+        <h2>Depoimentos de Participantes</h2>
+        <p>“Foi transformador, vi o horizonte como nunca antes!” – João S., 2023</p>
+        <p>“Finalmente encontrei as respostas que buscava a vida inteira.” – Ana M., 2022</p>
+        <p>“Uma experiência de abrir a mente e os olhos. Recomendo a todos!” – Carlos P., 2021</p>
+    </section>
+
+    <section class="faq">
+        <h2>FAQ - Perguntas Frequentes</h2>
+        <p><strong>O que eu vou ver nesse cruzeiro?</strong></p>
+        <p>Prepare-se para uma experiência única, explorando o mundo através da visão da Terra Plana e debatendo as mais intrigantes teorias.</p>
+        
+        <p><strong>E se eu chegar na borda da Terra?</strong></p>
+        <p>Nossos especialistas estarão lá para orientá-lo e garantir uma experiência segura e inesquecível.</p>
+        
+        <p><strong>Preciso de experiência em ciência?</strong></p>
+        <p>Não! O cruzeiro é aberto a todos que buscam o conhecimento verdadeiro e querem ver além do horizonte.</p>
+    </section>
+</div>
+
+<footer>
+    <p>ExploraVenture - FlatEarth Experience 2025 ©</p>
+    <p>Para mais informações, visite nosso site oficial: <a href="https://exploraventure.com/flattour2025">exploraventure.com/flattour2025</a></p>
+</footer>
+
+</body>
+</html>
